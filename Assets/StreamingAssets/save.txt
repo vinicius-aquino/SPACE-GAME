@@ -1,0 +1,7 @@
+{
+    "lastLevel": 1,
+    "coins": 15.0,
+    "healthPack": 0.0,
+    "chest": 2.0,
+    "playerName": "cororin"
+}
